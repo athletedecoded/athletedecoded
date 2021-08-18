@@ -7,3 +7,5 @@
   - **MIT 6.00.1 Intro to Computer Science and Programming with Python [📜](https://courses.edx.org/certificates/469ec7e297344ee9a03906916f5921da)**
 
 NB: Certificates linked for completed courses (click 📜)
+
+### You can follow my learning journey at https://athletedecoded.com/

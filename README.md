@@ -8,4 +8,4 @@
 
 NB: Certificates linked for completed courses (click 📜)
 
-### You can follow my learning journey at https://athletedecoded.com/
+#### You can follow my learning journey at https://athletedecoded.com/

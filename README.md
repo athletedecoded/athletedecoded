@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kahlia -- a professional women's football player building my off-field career in AI x software engineering.
-- 🧪 I’m passionate about applying AI and computer vision to develop high-perfomance sports solutions.
+- 🧪 I’m passionate about computer vision, AI driven social change and high-perfomance sport tech.
 - 👩‍💻 My learning journey so far...
   - **Deakin University** Post Graduate Certificate in Artificial Intelligence (Jul-Nov 2021)
   - **[Harvard Intro to Artificial Intelligence with Python](https://github.com/athletedecoded/CS50-AI)** [📜](https://courses.edx.org/certificates/f4fbac28599349868a4cbcc0fa4470ff)

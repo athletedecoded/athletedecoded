@@ -2,6 +2,8 @@
 
 🧪 I’m passionate about computer vision, AI driven social change and high-perfomance sport tech.
 
-👩‍💻 See what I'm working on at **[Athlete Decoded](https://athletedecoded.com/)**
+🛠️ Current project: **[Learning Rust](https://github.com/athletedecoded/rust)**
+
+👩‍💻 Sharing at **[Athlete Decoded](https://athletedecoded.com/)**
 
 🤵🏼‍♀️ Let's connect on **[LinkedIn](https://www.linkedin.com/in/kahliahogg/)**

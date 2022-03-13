@@ -2,8 +2,6 @@
 
 🧪 I’m passionate about computer vision, AI driven social change and high-perfomance sport tech.
 
-👩‍💻 Currently working on **[100 Days Of Code](https://github.com/athletedecoded/100-days-of-code)**
+👩‍💻 See what I'm working on at **[Athlete Decoded](https://athletedecoded.com/)**
 
 🤵🏼‍♀️ Let's connect on **[LinkedIn](https://www.linkedin.com/in/kahliahogg/)**
-
-😀 See what I'm working on at **[Athlete Decoded](https://athletedecoded.com/)**

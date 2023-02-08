@@ -2,7 +2,7 @@
 
 🧪 I’m passionate about computer vision, MLOps, AI driven social change and high-perfomance sport tech.
 
-🛠️ Current project: **[Rust MLOps](https://github.com/athletedecoded/rust-mlops)**
+🛠️ Current project: **[Rust x MLOps](https://athletedecoded.com/rustfolio/)**
 
 👩‍💻 Sharing at **[Athlete Decoded](https://athletedecoded.com/)**
 

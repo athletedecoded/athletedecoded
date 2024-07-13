@@ -1,12 +1,12 @@
 🦄 Hi, I'm Kahlia -- a former pro athlete, turned AI engineer and Fulbright Scholar
 
-🚀 I'm exploring the nexus of possibility between Sport x Climate Tech
+🛠️ I'm engineering performant AI solutions grounded in software engineering and MLOps/DevOps principles
 
-🧩 I'm a tinkerer and a hacker, captivated by puzzles and solving complex problems
+⚡I'm energized by computer vision, edge AI, sports x climate tech
 
-⚡ I'm passionate about high performance sport, MLOps, and AI driven social impact
+🥞 Dev Stack: Rust, Python, PyTorch, Tensorflow, HuggingFace, WandB, Onnx, Docker, git
 
-🔥 I'm fuelled by an insatiable curiosity, unwavering grit, and the pursuit of excellence
+🏗️ Cloud Platforms: AWS, Azure
 
 👩‍💻 Sharing at **[Athlete Decoded](https://athletedecoded.com/)**
 

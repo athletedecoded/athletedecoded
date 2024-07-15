@@ -2,9 +2,9 @@
 
 🛠️ I'm engineering performant AI solutions grounded in software engineering and MLOps/DevOps principles
 
-⚡I'm energized by computer vision, edge AI, sports x climate tech
+⚡I'm energized by edge AI, sports x climate tech, computer vision
 
-🥞 Dev Stack: Rust, Python, PyTorch, Tensorflow, HuggingFace, WandB, Onnx, Docker, git
+🥞 Dev Stack: Rust, Python, Javascript, PyTorch, Tensorflow, HuggingFace, WandB, Onnx, Docker, git
 
 🏗️ Cloud Platforms: AWS, Azure
 

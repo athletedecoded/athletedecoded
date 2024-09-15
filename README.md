@@ -1,8 +1,8 @@
 🦄 Hi, I'm Kahlia -- a former pro athlete, turned AI engineer and Fulbright Scholar
 
-🛠️ I'm engineering performant AI solutions grounded in software engineering and MLOps/DevOps principles
+🛠️ I'm engineering performant AI solutions grounded in MLOps/DevOps
 
-⚡I'm energized by edge AI, sports x climate tech, computer vision
+⚡I'm energized by edge AI, AI/ML security, sports x climate tech
 
 🥞 Dev Stack: Rust, Python, Javascript, PyTorch, Tensorflow, HuggingFace, WandB, Onnx, Docker, git
 
